@@ -3,5 +3,8 @@ public static void main(String[] args) {
 System.out.println("Welcom to java first program");
   System.out.println("Welcom to java first program1");
   System.out.println("Welcom to java first program2");
+  System.out.println("POLLSCM");
+  System.out.println("CRONTABS");
+
 }
 }
